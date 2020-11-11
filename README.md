@@ -1,7 +1,7 @@
 # [Apitron](www.apitron.com/ "Apitron website") - experts in documents processing #
 We've created and continue to develop a set of well-known PDF libraries downloaded by almost a million developers only from [nuget](https://www.nuget.org/profiles/Apitron) alone and this number is growing every day.
 
-## The following products are available for your convenience, be it an open source or a commercial project:##
+### The following products are available for your convenience, be it an open source or a commercial project: ###
 
 Product                | Description
 -----------------------|-----------------------
