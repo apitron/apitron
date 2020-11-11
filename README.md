@@ -5,8 +5,8 @@ We've created and continue to develop a set of well-known PDF libraries download
 
 Product                | Description
 -----------------------|-----------------------
-Apitron PDF Rasterizer | Created for doc pages rendering, allows one to save PDF documents to various image formats, implement text search and highliting, redact pages, use custom background colors, fully supports complex PDF drawing features and transparency model. 
-Apitron PDF Kit        | Created to generate and manipulate PDF documents on the fly, a swiss-knife of PDF tools. You can read, extract, and manipulate any PDF content using this libary. Create, delete or rearrange pages. Add PDF annotations or create and fill PDF forms. Digital signatures are supported as well, inlcluding adding multiple signatures to one PDF document. It's the library that does it all.
+[Apitron PDF Rasterizer](https://apitron.com/Product/pdf-rasterizer) | Created for doc pages rendering, allows one to save PDF documents to various image formats, implement text search and highliting, redact pages, use custom background colors, fully supports complex PDF drawing features and transparency model. 
+[Apitron PDF Kit](https://apitron.com/Product/pdf-kit)        | Created to generate and manipulate PDF documents on the fly, a swiss-knife of PDF tools. You can read, extract, and manipulate any PDF content using this libary. Create, delete or rearrange pages. Add PDF annotations or create and fill PDF forms. Digital signatures are supported as well, inlcluding adding multiple signatures to one PDF document. It's the library that does it all.
 
 All our libraries are created with global scale and audience in mind, and are battle tested by Fortune 500 companies and in our custom projects.
 They support multi-lingual text with right to left and top to bottom content layouts natively, all PDF standard versions including linearized, PDF/A, PDF/B, PDF/X, PDF 2.0.
